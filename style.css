@@ -1,0 +1,17 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.container-fluid{
+    background-color: grey;
+}
+.navbar-brand{
+    color: white;
+    padding-left: 100px;
+}
+.nav-link{
+    color: white;
+}
+.nav-section{
+    background-color: lightblue;
+    height: 50vh;
+}
